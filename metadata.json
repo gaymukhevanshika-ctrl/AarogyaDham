@@ -1,0 +1,10 @@
+{
+  "name": "AarogyaDham - Rural Health Connect",
+  "description": "Maharashtra Rural Healthcare portal for Gadchiroli and Nandurbar connecting patients, ASHA workers, and doctors with PHC mapping, offline AI triage, and telemetry dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
